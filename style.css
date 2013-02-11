@@ -40,6 +40,11 @@
 	font-weight: bold;
 }
 
+#nameheader a {
+	color: #C1272D;
+	text-decoration: none;
+}
+
 #footer {
 	text-align: center;
 	color: #999999;
