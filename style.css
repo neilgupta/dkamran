@@ -1,0 +1,231 @@
+#container {
+	width: 900px;
+	margin: 0 auto;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	color: #404040;
+}
+
+.clear {
+	clear: both;
+}
+
+#navbarintro {
+	text-align: center;
+	margin: 40px;
+}
+
+#navbar {
+	float: right;
+	margin: 15px;
+}
+
+.navbar a {
+	margin: 15px;
+	color: #01b6cb;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+	text-decoration: none;
+	color: #018998;
+}
+
+#nameheader {
+	float: left;
+	color: #C1272D;
+	font-size: 20px;
+	margin: 15px;
+	font-weight: bold;
+}
+
+#footer {
+	text-align: center;
+	color: #999999;
+	font-size: 12px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+
+/* Intro */
+
+#headerImg {
+	text-align: center;
+	margin: 50px 0;
+}
+
+h1#intro {
+	text-align: center;
+	color: #C1272D;
+	font-size: 40px;
+}
+
+/* Bio */
+
+#biobox {
+	margin: 40px auto;
+	width: 468px;
+}
+
+#biobox #profpic {
+	float: left;
+	border: 1px solid #ccc;
+	margin-right: 15px;
+	margin-top: 2px;
+}
+
+#biobox #biome {
+	float: left;
+	font-size: 23px;
+	color: #C1272D;
+}
+
+#savetheworld {
+	width: 700px;
+	margin: 50px auto;
+}
+
+#savetheworld .imgheader {
+	margin-left: 50px;
+}
+
+#savetheworld ul {
+	z-index: 1;
+	margin-left: 235px;
+	position: absolute;
+	display: block;
+	font-size: 16px;
+	line-height: 22px;
+	width: 400px;
+	list-style-image: url('images/ulb.png');
+}
+
+#savetheworld #superheroImg {
+	z-index: 0;
+	margin-top: 20px;
+	float: left;
+}
+
+#whereilived {
+	width: 377px;
+	margin: 30px auto;
+}
+
+#otheruniverses {
+	width: 500px;
+	margin: 80px auto;
+}
+
+#otheruniverses .imgheader {
+	margin-left: 170px;
+}
+
+#otheruniverses ul {
+	z-index: 1;
+	margin-left: 200px;
+	position: absolute;
+	display: block;
+	font-size: 16px;
+	line-height: 32px;
+	width: 400px;
+	list-style-image: url('images/ulb.png');
+}
+
+#otheruniverses a {
+	color: #01b6cb;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#otheruniverses a:hover {
+	text-decoration: none;
+	color: #018998;
+}
+
+#otheruniverses #planetImg {
+	z-index: 0;
+	float: left;
+	margin-top: -60px;
+}
+
+/* Experiences */
+
+#venn {
+	text-align: center;
+	margin: 40px 0 70px 0;
+}
+
+.resumesection {
+	width: 800px;
+	margin: 40px auto;
+}
+
+.resumesection img {
+	float: left;
+	margin-left: 20px;
+}
+
+.resumesection h1 {
+	margin-left: 100px;
+	font-size: 28px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+.resumesection p {
+	margin-left: 100px;
+	margin-top: 30px;
+	margin-bottom: 0;
+}
+
+.resumesection p.first {
+	margin-top: 10px;
+}
+
+.resumesection .dates {
+	margin-left: 100px;
+	color: #C1272D;
+	font-weight: bold;
+}
+
+.resumesection ul.resumebullets {
+	margin-left: 140px;
+	line-height: 20px;
+}
+
+/* Contact */
+
+#contactcontainer {
+	width: 500px;
+	margin: 60px auto;
+}
+
+#telephone {
+	float: left;
+	width: 190px;
+}
+
+#contactdetails {
+	float: right;
+	width: 290px;
+	color: #C1272D;
+}
+
+#contactdetails h1 {
+	margin: 30px 0 20px 0;
+}
+
+#contactdetails h2 {
+	margin: 0;
+	margin-top: 5px;
+	font-weight: normal;
+}
+
+#contactdetails a {
+	color: #C1272D;
+}
+
+#contactdetails a:hover {
+	text-decoration: none;
+}
