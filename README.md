@@ -1,1 +1,1 @@
-Portfolio site for Daniya Kamran, at [daniyakram.com](http://daniyakamran.com), that I put together for her.
+Portfolio site for Daniya Kamran, at [daniyakamran.com](http://daniyakamran.com), that I put together for her. All rights reserved.
