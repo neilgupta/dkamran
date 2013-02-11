@@ -32,6 +32,10 @@
 	color: #018998;
 }
 
+.navbar a.selected {
+	color: #C1272D;
+}
+
 #nameheader {
 	float: left;
 	color: #C1272D;
@@ -43,6 +47,10 @@
 #nameheader a {
 	color: #C1272D;
 	text-decoration: none;
+}
+
+.headerdivider {
+	border-bottom: 1px solid #d9d9d9;
 }
 
 #footer {
@@ -199,6 +207,10 @@ h1#intro {
 	line-height: 20px;
 }
 
+.resumesection .footnote {
+	font-style: italic;
+}
+
 /* Contact */
 
 #contactcontainer {
@@ -233,4 +245,10 @@ h1#intro {
 
 #contactdetails a:hover {
 	text-decoration: none;
+}
+
+/* Media */
+
+#mediacontainer {
+	text-align: center;
 }
