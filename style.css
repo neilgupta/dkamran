@@ -252,3 +252,8 @@ h1#intro {
 #mediacontainer {
 	text-align: center;
 }
+
+#mediacontainer h1 {
+	font-size: 20px;
+	margin-top: 40px;
+}
